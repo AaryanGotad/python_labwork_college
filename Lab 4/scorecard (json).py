@@ -5,7 +5,7 @@
 # Marks in Physics
 # Marks in Chemistry
 # And provides a scorecard with their grades as output
-# With an added functionality of all the student records maintained in json file
+# With an added functionality of all the student records maintained in a json file
 
 import json
 
